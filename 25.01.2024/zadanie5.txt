@@ -1,0 +1,7 @@
+Nazwa atrybutu			Zastosowanie						Znacznik
+type="submit"			Pole tworzące przycisk do wysyłania danych		<input>
+scrolling="no/yes/auto"		Ustawienie suwaków do przewijania			<frame>
+maxlength="x"			Maksymalna liczba znaków				<input>
+cellspacing="x"			Rozmiar odstępów między komórkami			<table>
+id="header"			Identyfikatoe elementu					<div>
+type="text"			Pole tekstowe						<input>
